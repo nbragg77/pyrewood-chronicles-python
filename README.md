@@ -56,4 +56,4 @@ No additional packages or dependencies are required beyond Python.
 
 ## Case Study
 
-[View the full project case study on my portfolio.] (https://nwbragg.wixsite.com/portfolio/project-01)
+[View the full project case study on my portfolio.] (https://nwbragg.wixsite.com/portfolio/python-adventure)
