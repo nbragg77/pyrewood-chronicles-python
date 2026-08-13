@@ -58,4 +58,4 @@ September 2021
 
 ## Case Study
 
-View the full project case study on my portfolio. (https://github.com/nbragg77/pyrewood-chronicles-python/tree/main)
+[View the full project case study on my portfolio.] (https://nwbragg.wixsite.com/portfolio/project-01)
