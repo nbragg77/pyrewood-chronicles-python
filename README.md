@@ -6,12 +6,15 @@ project for IT-140 in September 2021.
 ## About the Project
 
 The original assignment called for a simple text-based game in
-which the player navigated rooms, collected required items, and
-reached a final encounter.
+which the player navigated seven (7) rooms, collected three (3) required items, 
+and reached a final encounter in order to win.
 
 I completed the core project requirements early in the course and
-used the remaining time to expand the application through
-independent study and experimentation.
+used the remainder of the course to expand the application beyond
+the original assignment, using course concepts alongside independent
+learning resources to experiment with object-oriented design,
+randomization, dynamic encounters, skill checks, environmental
+hazards, and multiple gameplay outcomes.
 
 ## Key Features
 
@@ -50,11 +53,6 @@ No additional packages or dependencies are required beyond Python.
 - `join [companion]` — Recruit an available companion
 - `rest` — Recover health
 - `q` or `quit` — Exit the game
-
-## Project Background
-
-Academic Project — IT-140
-September 2021
 
 ## Case Study
 
